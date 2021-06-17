@@ -1,0 +1,20 @@
+ls -R: to shows all the files not only in directories but also subdirectories 
+ls -al: gives detailed information of the files
+cat: server command is used to display text files
+rm: command removes files from the system without confirmation
+mkdir directoryname This command will create a subdirectory in your present working directory
+rmdir directoryname :To remove a directory
+mv directoryname newdirectoryname: mv (move) commandcan also be used for renaming directories
+man :The terminal would open the manual page for that command
+history : shows all the basic commands in Linux that you have used in the past for the current terminal session
+pr :command helps in formatting the file for printing on the terminal
+	-x 	Divides the data into 'x' columns
+	-h "header" 	Assigns "header" value as the report header
+	-t 	Does not print the header and top/bottom margins
+	-d 	Double spaces the output file
+	-n 	Denotes all line with numbers
+	-l page length 	Defines the lines (page length) in a page. Default is 56
+	-o margin 	Formats the page by the margin number 
+
+mail -s 'subject' -c 'cc-address' -b 'bcc-address' 'to-address' : to send mails
+
